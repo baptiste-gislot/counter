@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can acces site via Netlify: https://nifty-bhabha-66bbe0.netlify.com/
 
 ## Available Scripts
 
